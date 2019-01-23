@@ -1,0 +1,79 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+	<link rel="icon" href="/home/gaurav/Downloads/img_416435.png" type="image/png">
+	<style>
+		span{
+		font-family:arial black;
+		font-size:20px;
+		background:red;
+		}
+		div{
+		height:150px;
+		width:40%;
+		}
+		.first{
+		background:tomato;
+		border:5px solid lightgray;
+		position:absolute;
+		}
+		.second{
+		background:green;
+		border:5px solid lightgray;
+		margin-left:50%;			
+		}
+	</style>
+</head>
+<body>
+
+	<header>
+		<center>Name Name Name</center>
+	</header>
+		<hr>
+		<h1>List of cars</h1>
+			<ol>
+			  <li>Bmw</li>
+			  <li>Audi</li>
+			  <li>Ferrari</li>
+			</ol>
+		<h2>List of bikes</h2>
+			<ul>
+			  <li>Apache</li>
+			  <li>Royal enfield</li>
+			  <li>Activa</li>
+			</ul> 
+		<h3>Terminology</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod quis nostrud <span>exercitation</span>
+			msnambk abj ajc kdkcns jdc jbsjba  jbjc nbjac jjs j kwdj cc.he leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+			</p>
+			<h4>Products</h4>	
+			<hr>
+					<div class="first">
+					<p>content</p>
+					</div>
+					<div class="second">
+					<p>content</p>
+					</div>
+			<iframe src="google.com" width="100%" scroll="none" style="background:red;border:none;"></iframe>
+				<table border="1">
+					<tr>
+						<td>hello</td>
+						<td rowspan="1,5">lol</td>
+					</tr>
+					<tr>
+						<td>pop</td>
+					</tr>
+					<tr>
+						<td>yo</td>
+						<td rowspan="1,5">top</td>
+					
+					</tr>
+				</table>
+			<footer>
+				copyright 
+			</footer>
+
+
+</body>
+</html> 
